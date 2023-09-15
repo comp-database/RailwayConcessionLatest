@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Railway Concession</string>
+    <string name="user_first_name">Asmita</string>
+    <string name="user_name1">Asmita</string>
+
+    <string-array name="department">
+        <item>Comp Engg</item>
+        <item>IT</item>
+        <item>EXTC</item>
+        <item>AIDS</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="user_name">Asmita Ghode</string>
+    <string name="user_">Asmita</string>
+    <string name="user_class">TE Comps A</string>
+    <string name="user_ID_no">VU1F2122031</string>
+    <string name="user_email">vu1f2122031@pvppcoe.ac.in</string>
+    <string name="user_contact_no">9004954995</string>
+    <string name="user_aadhar_card">123456789012</string>
+    <string name="user_age">19</string>
+</resources>
